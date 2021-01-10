@@ -11,12 +11,3 @@
 
 λ_ ~ > █
 ```
-
-## Links
-- [Devpost]()
-- [Itch.io]()
-
-## More Git
-My projects are available in a couple of other places
-- [Gitosaur](https://git.danieliu.xyz)
-- [GitLab](https://gitlab.com/MrPicklePinosaur)
