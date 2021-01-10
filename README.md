@@ -1,14 +1,22 @@
 ```
-       _
- _ __ (_)_ __   ___  ___  __ _ _   _ _ __
-| '_ \| | '_ \ / _ \/ __|/ _` | | | | '__|
-| |_) | | | | | (_) \__ \ (_| | |_| | |
-| .__/|_|_| |_|\___/|___/\__,_|\__,_|_|
-|_|
+λ_ ~ > ufetch-danieliu
+
+                      daniel@liu
+ _____    __          ALIAS:    pinosaur
+/\  __-. /\ \         STATUS:   cs student at uw 
+\ \ \/\ \\ \ \____    LAPTOP:   ThinkPad T420s
+ \ \____- \ \_____\   UPTIME:   18 years
+  \/____/  \/_____/   WEBSITE:  https://danieliu.xyz
+                      EMAIL:    danieliu3120@gmail.com
+
+λ_ ~ > █
 ```
 
-### More Git
----
+## Links
+- [Devpost]()
+- [Itch.io]()
+
+## More Git
 My projects are available in a couple of other places
-- https://git.danieliu.xyz/ 
-- https://gitlab.com/MrPicklePinosaur
+- [Gitosaur](https://git.danieliu.xyz)
+- [GitLab](https://gitlab.com/MrPicklePinosaur)
