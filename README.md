@@ -12,6 +12,11 @@
 
 λ_ ~ > █
 ```
+
+<a href="https://pinosaur.itch.io/"><img alt="itch.io" src="https://img.shields.io/static/v1?logo=itch.io&labelColor=grey&label=&message=itch.io&color=red"></a>
+<a href="https://devpost.com/pinosaur"><img alt="devpost" src="https://img.shields.io/static/v1?logo=devpost&labelColor=grey&label=&message=devpost&color=blue"></a>
+<a href="https://crates.io/users/MrPicklePinosaur"><img alt="crates.io" src="https://img.shields.io/static/v1?logo=rust&labelColor=grey&label=&message=crates.io&color=orange"></a>
+
 <!--
 <div align="center">
 <a href="https://github.com/MrPicklePinosaur?tab=repositories&language=rust" target="_blank"><img alt="rust" src="https://img.shields.io/badge/-rust-orange?style=flat&logo=Rust&logoColor=white"></a>
