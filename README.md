@@ -16,6 +16,8 @@
 <a href="https://pinosaur.itch.io/"><img alt="itch.io" src="https://img.shields.io/static/v1?logo=itch.io&labelColor=grey&label=&message=itch.io&color=red"></a>
 <a href="https://devpost.com/pinosaur"><img alt="devpost" src="https://img.shields.io/static/v1?logo=devpost&labelColor=grey&label=&message=devpost&color=blue"></a>
 <a href="https://crates.io/users/MrPicklePinosaur"><img alt="crates.io" src="https://img.shields.io/static/v1?logo=rust&labelColor=grey&label=&message=crates.io&color=orange"></a>
+<a href="https://hub.docker.com/u/pinosaur"><img alt="dockerhub" src="https://img.shields.io/static/v1?logo=docker&labelColor=grey&label=&message=dockerhub&color=blue"></a>
+
 
 <!--
 <div align="center">
