@@ -17,6 +17,7 @@
 <a href="https://devpost.com/pinosaur"><img alt="devpost" src="https://img.shields.io/static/v1?logo=devpost&labelColor=grey&label=&message=devpost&color=blue"></a>
 <a href="https://crates.io/users/MrPicklePinosaur"><img alt="crates.io" src="https://img.shields.io/static/v1?logo=rust&labelColor=grey&label=&message=crates.io&color=orange"></a>
 <a href="https://hub.docker.com/u/pinosaur"><img alt="dockerhub" src="https://img.shields.io/static/v1?logo=docker&labelColor=grey&label=&message=dockerhub&color=blue"></a>
+<a href="https://aur.archlinux.org/packages?K=pinosaur&SeB=m"><img alt="AUR" src="https://img.shields.io/static/v1?logo=arch-linux&labelColor=grey&label=&message=AUR&color=blue"></a>
 
 
 <!--
