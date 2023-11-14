@@ -5,8 +5,8 @@
                       daniel@liu
  _____    __          ALIAS:    pinosaur
 /\  __-. /\ \         STATUS:   cs student at uw 
-\ \ \/\ \\ \ \____    LAPTOP:   ThinkPad T420s
- \ \____- \ \_____\   UPTIME:   20 years
+\ \ \/\ \\ \ \____    LAPTOP:   ThinkPad X1 Yoga
+ \ \____- \ \_____\   UPTIME:   21 years
   \/____/  \/_____/   WEBSITE:  https://danieliu.xyz
                       EMAIL:    daniel.liu@karatsubalabs.com
 
