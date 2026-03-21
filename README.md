@@ -4,11 +4,10 @@
 
                       daniel@liu
  _____    __          ALIAS:    pinosaur
-/\  __-. /\ \         STATUS:   cs student at uw 
-\ \ \/\ \\ \ \____    LAPTOP:   Framework Laptop 13
- \ \____- \ \_____\   UPTIME:   21 years
+/\  __-. /\ \         STATUS:   founder @ solderable, inc.
+\ \ \/\ \\ \ \____    LAPTOP:   macbook pro
+ \ \____- \ \_____\   UPTIME:   23 years
   \/____/  \/_____/   WEBSITE:  https://danieliu.xyz
-                      EMAIL:    daniel.liu@karatsubalabs.com
 
 λ_ ~ > █
 ```
